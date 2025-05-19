@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exemplo02 {
+public class NomeDoMesSwitch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

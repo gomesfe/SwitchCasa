@@ -1,4 +1,4 @@
-public class Exemplo05 {
+public class CalculadoraSwitch {
     public static void main(String[] args) {
         int valor = 5;
 
